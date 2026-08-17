@@ -1,1 +1,3 @@
-print(game:GetService("Players").LocalPlayer.Name)
+while task.wait() do
+  AntiStealer = false
+end
